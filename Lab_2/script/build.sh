@@ -1,7 +1,7 @@
 #!/bin/bash
 
-SERVER_HOST_DIR=/home/vivek/INSIDE/DevOpsJS/Labs/Lab_2/nestjs-rest-api-feat-products-api
-CLIENT_HOST_DIR=/home/vivek/INSIDE/DevOpsJS/Labs/Lab_2/shop-react-redux-cloudfront-main
+SERVER_HOST_DIR=/home/vivek/INSIDE/DevOpsJS/DevOps-Fundamentals-for-JavaScript-Engineers/Lab_2/nestjs-rest-api-feat-products-api
+CLIENT_HOST_DIR=/home/vivek/INSIDE/DevOpsJS/DevOps-Fundamentals-for-JavaScript-Engineers/Lab_2/shop-react-redux-cloudfront-main
 
 # destination folder names can be changed
 SERVER_REMOTE_DIR=/var/app/server
